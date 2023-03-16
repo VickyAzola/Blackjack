@@ -1,0 +1,34 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://us.123rf.com/450wm/breakingthewalls/breakingthewalls1709/breakingthewalls170900101/86253761-mesa-de-p%C3%B3ker-verde-oscuro-sinti%C3%B3-textura-de-fondo-de-material-textil-%C3%A1spero-suave-cerca.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    background-color: goldenrod;
+    color: #016f32;
+    width: 150px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 3px;
+}
+
+button:hover {
+    background-color: rgb(238, 191, 71);
+    cursor: pointer;
+}
